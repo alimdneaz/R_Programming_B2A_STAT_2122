@@ -1,6 +1,6 @@
 # 📊 Programming with R — STAT-2122
 
-Welcome to the official repository for **STAT-2122: Programming with R**, offered by the Department of Statistics, Islamic University. This course introduces fundamental concepts of programming using the R language, focusing on data analysis, visualization, and statistical computing.
+Welcome to the official repository for **STAT-2122(Session): Programming with R**, offered by the Department of Statistics, Islamic University, Kushita - 7003, Bangladesh. This course introduces fundamental concepts of programming using the R language, focusing on data analysis, visualization, and statistical computing.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the official repository for **STAT-2122: Programming with R**, offere
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 Topics To Be Covered
 
 ### Week 1–2: Introduction to R
 - Installing R and RStudio
@@ -74,9 +74,13 @@ Welcome to the official repository for **STAT-2122: Programming with R**, offere
 ## 🗂️ Repository Structure
 
 ├── /data/ # Datasets used in examples and assignments
+
 ├── /lectures/ # Slide decks and notebooks
+
 ├── /assignments/ # Weekly assignments and solutions
+
 ├── /scripts/ # Example scripts and demonstrations
+
 ├── README.md # Course overview and instructions
 
 
@@ -106,9 +110,9 @@ Welcome to the official repository for **STAT-2122: Programming with R**, offere
 
 ## 🧪 Assessment
 
-- Weekly Assignments
-- Mini Project
-- Final Practical Test
+- Weekly Assignments (optional)
+- Mini Project (optional)
+- Final Practical Test (optional)
 
 ---
 
@@ -145,8 +149,9 @@ _Bioinformatician | Data Science Enthusiast_
 For help, feedback, or queries:  
 📧 neazali77@gmail.com  
 📍 Islamic University, Kushtia, Bangladesh
-
+📧 LinkedIn: https://www.linkedin.com/in/md-neaz-ali-2b41551ab/
+📧 Kaggle: https://www.kaggle.com/alineaz
 ---
 
-> *“Programming is the art of thinking clearly.”* – Neo
+> *“Programming is the art of thinking clearly.”* 
 
