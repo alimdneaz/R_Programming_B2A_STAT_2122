@@ -148,8 +148,11 @@ _Bioinformatician | Data Science Enthusiast_
 
 For help, feedback, or queries:  
 📧 neazali77@gmail.com  
-📍 Islamic University, Kushtia, Bangladesh
+
+📍 Islamic University, Kushtia - 7003, Bangladesh
+
 📧 LinkedIn: https://www.linkedin.com/in/md-neaz-ali-2b41551ab/
+
 📧 Kaggle: https://www.kaggle.com/alineaz
 ---
 
